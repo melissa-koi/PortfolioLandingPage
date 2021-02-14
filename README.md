@@ -9,6 +9,8 @@ This is my portfolio including:
 #### By Melissa Wangui
 ## Technologies used
 This webpage was created entirely by HTML5 and CSS3
+## Link to live webpage
+
 ## License
-<https://github.com/melissa-koi/PortfolioLandingPage/blob/main/LICENSE>
+<https://github.com/melissa-koi/PortfolioLandingPage/blob/main/LICENSE><br>
 The license used is MIT
