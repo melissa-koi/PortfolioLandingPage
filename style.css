@@ -29,3 +29,9 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.about-me{
+    background-color:rgb(182, 56, 56);
+    width: 45%;
+    float: left;
+    /* margin-right: 10px; */
+}
