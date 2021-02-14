@@ -41,3 +41,8 @@
     background-color: rebeccapurple;
     width: 55%;
 }
+.projects{
+    float:none;
+    width: auto;
+    background-color: royalblue;
+}
