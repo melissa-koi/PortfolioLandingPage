@@ -35,7 +35,6 @@
     margin-bottom: 10px;
 }
 .about-me{
-    /* background-color:rgb(182, 56, 56); */
     width: 50%;
     float: left;
     letter-spacing: 1px;
@@ -46,7 +45,6 @@
 .hobbies{
     float: left;
     position: relative;
-    /* background-color: rebeccapurple; */
     width: 45%;
     text-decoration: none;
     margin-bottom: 2px;
@@ -67,7 +65,6 @@
 .projects{
     float:left;
     width: auto;
-    /* background-color: royalblue; */
     letter-spacing: 1px;
     line-height: 1.75rem;
     font-size: 18px;
