@@ -10,7 +10,7 @@ This is my portfolio including:
 ## Technologies used
 This webpage was created entirely by HTML5 and CSS3
 ## Link to live webpage
-
+<https://melissa-koi.github.io/PortfolioLandingPage/>
 ## License
 <https://github.com/melissa-koi/PortfolioLandingPage/blob/main/LICENSE><br>
 The license used is MIT
