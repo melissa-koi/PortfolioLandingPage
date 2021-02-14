@@ -35,35 +35,41 @@
     margin-bottom: 10px;
 }
 .about-me{
-    background-color:rgb(182, 56, 56);
-    width: 45%;
+    /* background-color:rgb(182, 56, 56); */
+    width: 50%;
     float: left;
-    /* margin-right: 10px; */
+    letter-spacing: 1px;
+    line-height: 1.75rem;
+    font-size:20px;
+    text-align:justify;
 }
 .hobbies{
     float: left;
     position: relative;
-    background-color: rebeccapurple;
-    width: 55%;
-    display:block;
+    /* background-color: rebeccapurple; */
+    width: 45%;
     text-decoration: none;
-    margin-bottom: 5px;
-}
-.projects{
-    float:none;
-    width: auto;
-    background-color: royalblue;
+    margin-bottom: 2px;
+    margin-left: 25px;
 }
 .hobbies-list img{
     height: 60px;
     width: 70px;
     border-radius: 50%;
-    float: left;
-    margin: 2px; 
+    margin: 10px;
+    float:left; 
 }
 .hobbies-text{
     margin-top: 20px;
     margin-left: 10px;
-    float: left;
+    float:left;
+}
+.projects{
+    float:left;
+    width: auto;
+    /* background-color: royalblue; */
+    letter-spacing: 1px;
+    line-height: 1.75rem;
+    font-size: 17px;
 }
 
