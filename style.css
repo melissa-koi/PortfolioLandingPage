@@ -11,3 +11,13 @@
     margin-top: 30px;
     font-size: 18px;
 }
+.header{
+    text-align: center;
+    border-top: 3px solid grey;
+    border-bottom: 3px solid grey;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.246),black),url(software-engineer-portfolio.jpg);
+    background-position: center;
+}
+.header img{
+    margin-top: 15px;
+}
