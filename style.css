@@ -41,7 +41,7 @@
     letter-spacing: 1px;
     line-height: 1.75rem;
     font-size:20px;
-    text-align:justify;
+    text-align:left-align;
 }
 .hobbies{
     float: left;
@@ -71,5 +71,10 @@
     letter-spacing: 1px;
     line-height: 1.75rem;
     font-size: 17px;
+}
+.header a{
+    text-decoration: none;
+    color: rgb(65, 160, 189);
+    font-size: 18px;;
 }
 
