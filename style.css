@@ -87,3 +87,7 @@ h3{
     color:rgb(0, 51, 51);
     margin-bottom: 5px;
 }
+.projects a{
+    text-decoration: none;
+    color: rgb(65, 160, 189);
+}
